@@ -34,5 +34,8 @@ class Cell:
     def kill(self) -> None:
         self.nextFlag = False
         
+    def is_alive(self) -> bool:
+        return self.currFlag
+        
               
     
