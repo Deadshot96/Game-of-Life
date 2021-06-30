@@ -1,0 +1,6 @@
+WIDTH = 700
+HEIGHT = 700
+X_OFF = 50
+Y_OFF = int(HEIGHT * 0.8)
+FPS = 60
+G_RES = 20
